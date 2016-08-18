@@ -38,7 +38,7 @@ For some of the problems, you'll have to use functions or other variables suppli
 
 When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Example:
 
-> I was a able to complete all of the mathematical functions, but the string related functions were difficult for me. I spoke with the evening TA and she helped me solve the ASCII triangle function. I'm still feeling iffy on writing my own loops.
+> Jason Kim - I had difficulty with this assignment. i worked with the evening TA Monq on going through some function samples from the Fundamentals. I will continue to work on improving my Functions skillset so that I am comfortable and competent to a greater degree than I am now.
 
 Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
 
